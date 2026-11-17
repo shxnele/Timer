@@ -1,0 +1,22 @@
+:root {
+  --pine: #193d35;
+  --lime: #ddf56c;
+  font-family: 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
+  color: var(--pine);
+  background: #f4f5ed;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
